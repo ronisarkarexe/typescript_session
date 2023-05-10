@@ -1,3 +1,41 @@
+# Typescript Topic
+
+## --> Module 1 <--
+1. index(primitive types)
+2. array-tuples
+3. object
+4. function
+5. spread And rest operator
+6. alias
+7. union and intersection
+8. null and unknown
+9. ternary
+
+## --> Module 2 <--
+10. assertion
+11. interface
+12. generic (tuple, interface, function)
+13. asynchronous
+14. conditional
+15. mapped
+
+## --> Module 3 <-
+16. oop
+17. create class, object, parameter property
+18. inheritance
+19. type guard and narrowing
+20. access modifiers
+21. getter and setter
+22. static in class
+23. polymorphism
+24. abstraction
+26. encapsulation
+
+## --> Module bpnus video <-
+27. utility types
+28. multiple interface
+
+
 # Typescript Question And Answer
 
 ### Question:-1 Create a function that takes an array of numbers as input and returns the sum of all the numbers in the array. Make sure to define the types for the input parameter and return value.
