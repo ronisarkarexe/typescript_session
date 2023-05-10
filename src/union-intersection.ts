@@ -29,7 +29,7 @@ const HeroData: HeroTypeB = {
 const favor: HeroTypeA | HeroTypeB = {
     name: "string",
     age: 12,
-    // salary: 123,
+    salary: 123,
     // position: "string",
     // isSingle: true
 }

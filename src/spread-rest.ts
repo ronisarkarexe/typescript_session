@@ -11,6 +11,8 @@ const sp2:string[] = ['world','hello','roki','robin']
 sp1.push(...sp2)
 console.log(sp1)
 
+
+// normal function
 const againSum = (score:number, score2:number):number => {
     let aSum = 0;
     return aSum + score + score2;
